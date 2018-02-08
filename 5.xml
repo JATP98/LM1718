@@ -1,0 +1,25 @@
+<biblioteca>
+	<libro>
+		<ISBN></ISBN>
+		<nombre>
+			<codigo></codigo>
+		</nombre>
+		<editorial></editorial>
+		<añopublicacion></añopublicacion>
+		<autor></autor>
+	</libro>
+	
+	<socio>
+		<dni></dni>
+		<nombre></nombre>
+		<direccion></direccion>
+
+	</socio>
+
+	<prestamo>
+		<ISBN></ISBN>
+		<fechaprestamo></fechaprestamo>
+		<dnisocio></dnisocio>
+	</prestamo>
+
+</biblioteca>

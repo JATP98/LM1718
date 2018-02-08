@@ -1,0 +1,24 @@
+<facturas>
+	<codigo></codigo>
+	<fecha></fecha>
+	<datoscliente>
+		<dni></dni>
+		<nombre></nombre>
+		<direccion></direccion>
+		<codpostal></codpostal>
+		<poblacion></poblacion>
+	</datoscliente>
+
+	<producto>
+		<cantidad></cantidad>
+		<nombreproducto></nombreproducto>
+		<precio></precio>
+		<iva></iva>
+	</producto>
+
+	<descuento></descuento>
+</facturas>
+
+¿Es necesario guardar el importe total por producto y el importe total de la factura?
+
+Si porque el importe total de la factura si hay descuento puede ser inferior al total de los productos.

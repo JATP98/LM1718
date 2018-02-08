@@ -1,0 +1,22 @@
+<tiempo>
+	<ciudad>Dos Hermanas
+		<dia>25/Octubre/2011
+			<probabilidad>55%</probabilidad>
+			<estadocielo>Nuboso</estadocielo>
+			<direccionviento>Suroeste</direccionviento>
+			<velocidad>10 km/h</velocidad>
+			<temperatura>
+				<temperaturamax>21ºC</temperaturamax>
+				<termperaturamin>10ºC</termperaturamin>
+			</temperatura>
+			<sensaciontermica>
+				<sensaciontermicamax>21ºC</sensaciontermica>
+				<sensaciontermicamin>10ºC</sensaciontermicamin>
+			<humedad>
+				<humedadmax>90%</humedadmax>
+				<humedadmin>50%</humedadmin>
+			</humedad>
+			<indiceultravioleta>3</indiceultravioleta>
+		</dia>
+	</ciudad>		
+</tiempo>

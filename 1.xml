@@ -1,0 +1,19 @@
+<figura>
+	<figura tipo="rectangulo">
+		<vertice x="150" y="400"><vertice/>
+		<base>150</base>
+		<altura>120</altura>
+</figura>
+
+
+<circulo>
+	<radio>100</radio>
+	<posicion x="400" y="400"></posicion>
+</circulo>
+
+<linea>
+	<posicion1 x="400" y="400"></posicion1>
+	<posicion2 x="270" y="550"></posicion2>
+
+
+</linea>
